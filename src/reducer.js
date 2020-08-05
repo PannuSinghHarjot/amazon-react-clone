@@ -23,7 +23,6 @@ export const initialState = {
     user: null
 }
 
-//hey this is new line 
 
 
 function reducer(state , action) {
